@@ -11,8 +11,7 @@ body {
    background-color: #f5f8ff;
 }
 .wrapper {
-    width: 95%;
-    margin: 0 auto;
+    text-align: center;
 }
 
 #aramakutu {
@@ -25,20 +24,20 @@ body {
     padding: 1em 0.3em;
 }
 #aramakutu input:focus {
-    border-bottom-color: #6759ff ;
+    border-bottom-color: #11086c ;
 }
 
 #aramakutu button {
     padding: 1em 2em;
     margin-left: 1em;
-    background-color:  #6759ff;
+    background-color:  #11086c;
     color: #ffffff;
     border-radius: 5px;
     margin-top: 0.5em;
 }
 
 .buton-deger {
-    border: 2px solid #6759ff;
+    border: 2px solid #11086c;
     padding: 1em 2.2em;
     border-radius: 3em;
     background-color: transparent;
@@ -46,7 +45,7 @@ body {
     cursor: pointer;
 }
 .active {
-    background-color:  #6759ff;
+    background-color:  #11086c;
     color: #ffffff;
 }
 
